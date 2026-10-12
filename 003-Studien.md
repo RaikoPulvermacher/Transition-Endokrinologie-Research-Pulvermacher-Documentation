@@ -46,6 +46,60 @@ Dieses Archiv sammelt experimentelle Studien, theoretische Arbeiten, grundlegend
 
 **Status:** Nicht klinisch nachgewiesen; kein Dosierungs- oder Anwendungsvorschlag.
 
+## S-005 | Munabi et al. (1984): Temperatur und testikuläre Steroidogenese
+
+**Typ:** Experimentelle In-vitro-Studie.  
+**Titel:** The effects of temperature on the activity of testicular steroidogenic enzymes  
+**Zeitschrift:** Steroids 43(3), 325–331  
+**DOI:** https://doi.org/10.1016/0039-128X(84)90050-3  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/6335311/
+
+**Untersuchung:** Aktivität von 3β-HSD, 17-Hydroxylase, 17,20-Desmolase und Aromatase in mikrosomalen Fraktionen von Ratten-, Schweine- und Pferdehoden bei 34, 36 und 38 °C.
+
+**Befund:** Die Aktivitäten aller vier Enzyme nahmen mit jeder Temperaturerhöhung um 2 °C in ungefähr proportionalem Umfang zu.
+
+**Bezug zur Prozesshypothese:** Direkter experimenteller Anknüpfungspunkt für eine kausale Untersuchung von Temperatur, Enzymaktivität und Steroidproduktion. Der Versuch identifiziert keinen spezifischen Quantentunnelmechanismus und belegt keine entsprechende klinische Wirkung beim Menschen.
+
+## S-006 | Khatri et al. (2014): Isotopeneffekte bei menschlicher Aromatase
+
+**Typ:** Experimentelle enzymkinetische Untersuchung.  
+**Titel:** Kinetic solvent isotope effect in steady-state turnover by CYP19A1 suggests involvement of Compound 1 for both hydroxylation and aromatization steps  
+**Zeitschrift:** FEBS Letters 588(17), 3117–3122  
+**DOI:** https://doi.org/10.1016/j.febslet.2014.06.050  
+**Volltext:** https://pmc.ncbi.nlm.nih.gov/articles/PMC4138292/
+
+**Untersuchung:** Kinetische Lösungsmittel-Isotopeneffekte bei menschlicher Aromatase (CYP19A1) in Nanodiscs während der mehrstufigen Androgen-zu-Östrogen-Umwandlung.
+
+**Befund:** Für den C10–C19-Lyaseschritt wurde ein kinetischer Lösungsmittel-Isotopeneffekt von ungefähr 2,5 beobachtet; die Ergebnisse stützen die Beteiligung des reaktiven Zwischenprodukts Compound I.
+
+**Bezug zur Prozesshypothese:** Molekularer Anknüpfungspunkt zur Untersuchung von Protonenübertragung und Reaktionskinetik innerhalb desselben steroidogenen Vorgangs. Ein kinetischer Isotopeneffekt allein weist keinen spezifischen temperaturverstärkten Quantentunnelmechanismus nach.
+
+## S-007 | Wilde, Blotny und Pollack (2008): Wasserstofftunneln bei Ketosteroid-Isomerase
+
+**Typ:** Experimentelle Untersuchung eines steroidumsetzenden Enzyms.  
+**Titel:** Experimental Evidence for Enzyme-Enhanced Coupled Motion/Quantum Mechanical Hydrogen Tunneling by Ketosteroid Isomerase  
+**Zeitschrift:** Journal of the American Chemical Society 130(20), 6577–6585  
+**DOI:** https://doi.org/10.1021/ja0732330  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/18426205/
+
+**Untersuchung:** Vergleich von Deuterium-Isotopeneffekten bei enzymkatalysierter und nichtenzymatischer Isomerisierung eines Steroids.
+
+**Befund:** Die Ergebnisse wurden als experimentelle Hinweise auf gekoppelte molekulare Bewegung und verstärktes quantenmechanisches Wasserstofftunneln bei Ketosteroid-Isomerase interpretiert.
+
+**Bezug zur Prozesshypothese:** Konkreter Vergleichsmechanismus aus der Steroidchemie für die Frage nach der Kopplung von Molekülbewegung und quantenmechanischem Wasserstofftransfer. Ketosteroid-Isomerase ist nicht Aromatase; die Ergebnisse sind nicht ohne Weiteres auf CYP19A1 übertragbar.
+
+## H-001 | Integrierte Prozesshypothese: Temperatur, molekulare Bewegung und Steroidumwandlung
+
+**Typ:** Offene, experimentell prüfbare Forschungshypothese; kein bestätigter Mechanismus.
+
+**Ausgangspunkt:** Steroidumwandlung wird als durchgängiger physikalischer Vorgang untersucht. Die experimentell beobachtete Temperaturabhängigkeit steroidogener Enzyme [S-005], Isotopeneffekte menschlicher Aromatase [S-006] und Hinweise auf Wasserstofftunneln bei einem anderen Steroidenzym [S-007] werden als Anknüpfungspunkte derselben Forschungsfrage zusammengeführt.
+
+**Hypothese:** Temperaturabhängige molekulare Bewegungen könnten die Konfiguration reaktiver Zwischenzustände und gegebenenfalls die Beiträge quantenmechanischer Transferprozesse zu bestimmten Schritten der Steroidumwandlung beeinflussen.
+
+**Prüfbare Vorhersagen:** Temperaturreihen an gereinigter menschlicher Aromatase bei kontrollierten Substrat- und Cofaktorbedingungen; Wasserstoff-/Deuterium-Isotopenvergleiche über dieselben Temperaturen; Analyse der Produktbildung, Reaktionskinetik und Aktivierungsparameter; Abgleich mit klassischen kinetischen und quantenmechanischen Modellen.
+
+**Forschungslogik:** Der kausale Gesamtprozess wird als Hypothese formuliert und zur interdisziplinären Prüfung veröffentlicht. Die einzelnen Studien werden nicht als voneinander unabhängige Naturvorgänge behandelt. Zugleich bleibt transparent, welche experimentellen Messungen tatsächlich vorliegen und welcher konkrete Mechanismus noch untersucht werden muss.
+
 ## R-001 | Denis Noble (2012): Biological Relativity
 
 **Typ:** Theoretische und konzeptionelle wissenschaftliche Arbeit.  
