@@ -108,6 +108,17 @@ Dieses Archiv sammelt experimentelle Studien, theoretische Arbeiten, grundlegend
 
 **Status:** Spätere Ergänzung durch überprüfte Primärliteratur und klar abgegrenzte Hypothesen.
 
+## R-007 | Albert Einstein (1907): Äquivalenzprinzip
+
+**Typ:** Grundlegendes physikalisches Prinzip und historischer Theoriebeitrag.  
+**Originalarbeit:** Albert Einstein (1907), *Über das Relativitätsprinzip und die aus demselben gezogenen Folgerungen*, Jahrbuch der Radioaktivität und Elektronik 4, 411–462.
+
+**Historischer Kern:** Einstein formulierte 1907 den Ausgangsgedanken, dass die Wirkungen eines homogenen Gravitationsfeldes lokal mit denen eines entsprechend beschleunigten Bezugssystems in Beziehung gesetzt werden können. Dieser Gedanke war ein wichtiger Schritt auf dem Weg zur allgemeinen Relativitätstheorie.
+
+**Bezug zur Dokumentation:** Grundlageneintrag für spätere Untersuchungen von Gravitation, Beschleunigung, lokalen Beobachtungsbedingungen und ihrer physikalischen Beschreibung. Die Verbindung zur SRT wird ausdrücklich berücksichtigt, ohne das Äquivalenzprinzip mit der späteren vollständigen allgemeinen Relativitätstheorie gleichzusetzen.
+
+**Abgrenzung:** Aus dem Äquivalenzprinzip allein folgen keine spezifischen Aussagen über gonadische Hormonproduktion, Temperaturverteilung oder lokale Estradiolwirkung. Solche Anwendungen benötigen eine eigene Herleitung und experimentelle Prüfung.
+
 ## Weitere zu prüfende Literatur
 
 - Vergleichsstudien zu transdermalem und sublingualem Estradiol bei trans Frauen.
