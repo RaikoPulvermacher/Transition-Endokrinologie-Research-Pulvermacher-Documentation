@@ -36,12 +36,12 @@ Dieses Dokument sammelt wissenschaftliche Originalarbeiten zur transdermalen Ste
 
 **Erforderliche Prüfung:** Pharmakokinetische und pharmakodynamische Vergleiche verschiedener Applikationsorte, geeignete Kontrollen für systemische Estradiolspiegel, zeitlich aufgelöste Messungen von Estradiol, Testosteron und gegebenenfalls LH/FSH sowie Sicherheitsprüfung. Eine alleinige Blutentnahme im Abstand mehrerer Monate bildet kein vollständiges Tagesprofil ab.
 
-## 4. Weitere im Gespräch angesprochene Literatur: bibliografisch noch zu verifizieren
-- Vergleichsstudie zu transdermalem und sublingualem Estradiol bei trans Frauen (im Gespräch als Studie von 2024 mit 39 Teilnehmerinnen beschrieben): exakte bibliografische Angaben und Aussagegrenzen vor Aufnahme nachprüfen.
+## 4. Ergänzende Literatur und ausstehende Quellenprüfung
+- Vergleichsstudien zu transdermalem und sublingualem Estradiol bei trans Frauen: vollständige bibliografische Angaben, Studiendesign und Aussagegrenzen sind noch zu prüfen.
 - Weitere Arbeiten zu Estradiol-Gel-Pharmakokinetik und zeitlichen Serumkonzentrationsverläufen: einzelne Studien, Wirkstoffformulierungen und Messzeitpunkte vor Aufnahme nachprüfen.
-- Ältere experimentelle Untersuchungen zur direkten Estradiolwirkung auf Leydig-Zellen: konkrete Originalpublikationen vor Aufnahme nachprüfen.
+- Weitere experimentelle Untersuchungen zur direkten Estradiolwirkung auf Leydig-Zellen: konkrete Originalpublikationen und Versuchsanordnungen sind noch zu prüfen.
 
-Diese offenen Literaturhinweise werden bewusst **nicht** als bereits geprüfte Studien ausgegeben.
+Die hier genannten Themenfelder dienen der systematischen Erweiterung der Literaturbasis. Sie sind bis zur bibliografischen Prüfung **nicht als verifizierte Einzelstudien** zu werten. Die experimentelle Prüfung der Forschungshypothese ist davon unabhängig.
 
 ## Lizenzhinweis
 Die eigenständigen Kommentare, Fragestellungen und Zusammenfassungen dieses Archivs stehen, soweit Rechte beim Repository-Inhaber liegen, unter der [Pulvermacher Open Research License (PORL) v1.0](LICENSE.md). Die verlinkten wissenschaftlichen Originalarbeiten behalten ihre jeweiligen eigenen Rechte und Lizenzen.
