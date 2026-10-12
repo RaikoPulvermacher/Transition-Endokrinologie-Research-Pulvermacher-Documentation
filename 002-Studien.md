@@ -113,9 +113,9 @@ Dieses Archiv sammelt experimentelle Studien, theoretische Arbeiten, grundlegend
 **Typ:** Grundlegendes physikalisches Prinzip und historischer Theoriebeitrag.  
 **Originalarbeit:** Albert Einstein (1907), *Über das Relativitätsprinzip und die aus demselben gezogenen Folgerungen*, Jahrbuch der Radioaktivität und Elektronik 4, 411–462.
 
-**Historischer Kern:** Einstein formulierte 1907 den Ausgangsgedanken, dass die Wirkungen eines homogenen Gravitationsfeldes lokal mit denen eines entsprechend beschleunigten Bezugssystems in Beziehung gesetzt werden können. Dieser Gedanke war ein wichtiger Schritt auf dem Weg zur allgemeinen Relativitätstheorie.
+**Physikalischer Kern:** Einstein formulierte 1907 den Gedanken, dass die Wirkungen eines homogenen Gravitationsfeldes lokal mit denen eines entsprechend beschleunigten Bezugssystems in Beziehung gesetzt werden können. Hier wird das Prinzip anhand der physikalischen Beziehung von Gravitation, Beschleunigung und Trägheit behandelt, nicht als geometrisches Modell.
 
-**Bezug zur Dokumentation:** Grundlageneintrag für spätere Untersuchungen von Gravitation, Beschleunigung, lokalen Beobachtungsbedingungen und ihrer physikalischen Beschreibung. Die Verbindung zur SRT wird ausdrücklich berücksichtigt, ohne das Äquivalenzprinzip mit der späteren vollständigen allgemeinen Relativitätstheorie gleichzusetzen.
+**Bezug zur Dokumentation:** Eigenständiger physikalischer Ausgangspunkt für spätere Untersuchungen von Gravitation, Beschleunigung, Trägheit und lokalen Beobachtungsbedingungen. Die SRT von 1905 und das Äquivalenzprinzip von 1907 werden als historische und konzeptionelle Grundlagen betrachtet; eine geometrische Formulierung der Gravitation wird für diesen Forschungsansatz nicht vorausgesetzt.
 
 **Abgrenzung:** Aus dem Äquivalenzprinzip allein folgen keine spezifischen Aussagen über gonadische Hormonproduktion, Temperaturverteilung oder lokale Estradiolwirkung. Solche Anwendungen benötigen eine eigene Herleitung und experimentelle Prüfung.
 
