@@ -26,11 +26,15 @@ Die Dokumentation verfolgt damit eine kausale Forschungsstrategie: **zuerst den 
 4. **Therapeutische Zielorientierung:** Erwünschte feminisierende Effekte werden von tatsächlichen unerwünschten medizinischen Folgen getrennt.
 5. **Prüfbarkeit:** Jede weiterführende Schlussfolgerung muss durch geeignete Experimente, Kontrollen und Messgrößen überprüfbar sein.
 
+## Weiterführendes Forschungskapitel
+
+Die Überlegungen zu transdermaler Estradiolaufnahme, First-Pass-Umgehung, zeitlicher Exposition und einer möglichen Behandlung ohne zusätzliches Antiandrogen werden in [002-Transdermale-Estradiol-Regulation.md](002-Transdermale-Estradiol-Regulation.md) als Forschungsmodell ausgearbeitet.
+
 ## Literaturverweise und Referenzsystem
 
-- **[S-001]** Vaucher et al. (2014): Estradiol/GPER-1 und Testosteronproduktion in Leydig-Zellen und menschlichem Hodengewebe. Siehe [002-Studien.md, S-001](002-Studien.md#s-001--vaucher-et-al-2014).
-- **[S-002]** Iyer et al. (2017): Pharmakokinetik von Testosteroncreme auf Skrotalhaut. Siehe [002-Studien.md, S-002](002-Studien.md#s-002--iyer-et-al-2017).
-- **[S-003]** Literaturfeld PCOS, Theka-Zell-Hyperplasie, ovarielle Hyperthekose und ovarielle Leydig-Zellen. Die Einzelquellen müssen noch bibliografisch geprüft werden. Siehe [002-Studien.md, S-003](002-Studien.md#s-003--pcos-und-gonadische-steroidogene-zellen).
+- **[S-001]** Vaucher et al. (2014): Estradiol/GPER-1 und Testosteronproduktion in Leydig-Zellen und menschlichem Hodengewebe. Siehe [003-Studien.md, S-001](003-Studien.md#s-001--vaucher-et-al-2014).
+- **[S-002]** Iyer et al. (2017): Pharmakokinetik von Testosteroncreme auf Skrotalhaut. Siehe [003-Studien.md, S-002](003-Studien.md#s-002--iyer-et-al-2017).
+- **[S-003]** Literaturfeld PCOS, Theka-Zell-Hyperplasie, ovarielle Hyperthekose und ovarielle Leydig-Zellen. Die Einzelquellen müssen noch bibliografisch geprüft werden. Siehe [003-Studien.md, S-003](003-Studien.md#s-003--pcos-und-gonadische-steroidogene-zellen).
 
 Die Kennungen **S-001, S-002, ...** bleiben unabhängig von der fortlaufenden Kapitelnummer bestehen. So können neue Kapitel eingefügt und das Studienarchiv später umnummeriert werden, ohne die Studienidentifikatoren zu verändern.
 
@@ -38,4 +42,4 @@ Die Kennungen **S-001, S-002, ...** bleiben unabhängig von der fortlaufenden Ka
 
 Dieses Abstract beschreibt einen Forschungsansatz. Es ist kein Nachweis der Gleichheit sämtlicher gonadischer Zelltypen und keine Empfehlung zur eigenständigen Hormonbehandlung. Medizinische Anwendungen erfordern gesonderte klinische Evidenz und Sicherheitsbewertung.
 
-**Lizenz:** [Pulvermacher Open Research License (PORL) v1.0](003-Lizenz.md).
+**Lizenz:** [Pulvermacher Open Research License (PORL) v1.0](004-Lizenz.md).
