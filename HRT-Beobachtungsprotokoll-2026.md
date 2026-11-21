@@ -62,7 +62,13 @@ Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt
 
 **Phänomenologische Beobachtung unmittelbar beim Aufwachen:** Die Anwenderin beschreibt keine differenzierte emotionale oder körperliche Wahrnehmung zum Zeitpunkt der Anwendung, da sie gerade erst aufgewacht war. Ihre unmittelbare Reaktion auf das Verschlafen lautete wörtlich: **„Fuck, Scheiße!“** Diese Äußerung wird als situative Reaktion dokumentiert, nicht als zugeschriebene Estradiolwirkung.
 
-**Somatische, neurologische und sexuelle Veränderungen bei dieser Anwendung:** Nicht beschrieben; keine Aussage über Vorhandensein oder Abwesenheit von Veränderungen.
+**Somatische Wahrnehmung:** Müdigkeit und Trägheit unmittelbar nach dem Aufwachen. Die Anwenderin war am Vorabend spät zu Bett gegangen. Weitere somatische Empfindungen zu diesem Zeitpunkt nicht differenziert beschreibbar. Eine Ursache durch Estradiol wird nicht behauptet.
+
+**Neurologisch-psychologisches Erleben:** Nach dem Aufwachen traten erneut Glücksgefühle auf, verbunden mit dem Gedanken: „Ja, es geht weiter. Ich bin immer noch in der Transition drin.“ Diese Wahrnehmung wird als subjektiver Erlebnisbericht festgehalten, nicht als nachgewiesene neurologische Hormonwirkung.
+
+**Phänomenologisches Erleben:** Trotz der Glücksgefühle fühlt sich der Beginn der HRT weiterhin surreal an. Glück und das Gefühl, dass die neue Realität emotional noch nicht ganz angekommen ist, bestehen gleichzeitig.
+
+**Sexuelle Veränderungen bei dieser Anwendung:** Nicht beschrieben; keine Aussage über Vorhandensein oder Abwesenheit von Veränderungen.
 
 **Auftragungsstelle des dritten Hubs:** Noch nicht ausdrücklich bestätigt.
 
