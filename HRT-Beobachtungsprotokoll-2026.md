@@ -13,6 +13,14 @@
 
 **Bis einschließlich der zweiten Anwendung aufgetragene Estradiolmenge:** 1,0 mg (2 × 0,5 mg). Dies ist die nominell aufgetragene Menge, keine gemessene systemisch aufgenommene Menge und kein Blutspiegel.
 
+### Phänomenologische Selbstbeschreibung zu den Anwendungen
+
+**14:14 Uhr – erste Anwendung:** Die emotionale Ausgangslage wird als *neugierig, aufgeregt und von kindlichen Gefühlen geprägt* beschrieben. „Kindliche Gefühle“ ist hier die eigene Bezeichnung der Anwenderin für ihre subjektive Erlebnisqualität, keine klinische Zuschreibung.
+
+**Ca. 21:55 Uhr – zweite Anwendung:** Die Anwenderin berichtet ein Gefühl der *Entspannung*. Als alternative oder mitwirkende Erklärung benennt sie ausdrücklich das gleichzeitig verwendete Muskelrelaxans (Methocarbamol); eine Zuordnung zum Estradiol ist nicht möglich.
+
+**Übergreifendes Erleben:** Der Beginn der HRT fühlt sich weiterhin *surreal* an. Obwohl das Gel tatsächlich aufgetragen wird, besteht auf der Gefühlsebene noch der Eindruck, „es ist noch nicht da“. Damit wird eine Differenz zwischen dem bewusst gewussten, körperlich ausgeführten Beginn der HRT und dessen noch nicht vollständig erlebter emotionaler Wirklichkeit beschrieben. Dies ist eine phänomenologische Beschreibung des Selbsterlebens, kein Hinweis auf einen gemessenen hormonellen Effekt.
+
 ### Frühe subjektive Beobachtungen (ohne gesicherte Kausalzuordnung)
 
 - Wärmegefühl und Müdigkeit, zugleich Schwierigkeiten beim Einschlafen.
