@@ -105,3 +105,20 @@ Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt
 - **Muskuläre Wahrnehmung:** Weiterhin ausgeprägte Verspannungen und Druckgefühl in der Muskulatur. Das zuvor berichtete subjektive Gefühl zunehmender Entspannung besteht neben diesen weiterhin vorhandenen Beschwerden; eine objektive Veränderung des Muskeltonus wurde nicht gemessen.
 
 **Weitere Präzisierung der muskulären Wahrnehmung:** Die Anwenderin beschreibt Druckschmerz der Muskeln, in seiner Qualität vergleichbar mit Muskelkater. Dies konkretisiert das zuvor dokumentierte Druckgefühl; eine Ursache ist damit nicht bestimmt.
+
+
+### Fünfte Anwendung – 21.11.2026, 21:46 Uhr
+
+**Präparat:** 1 Hub Estreva 0,1 % (nominell 0,5 mg Estradiol). **Abstand zur vierten Anwendung (14:14 Uhr):** 7 Stunden 32 Minuten.
+
+**Auftragung (Selbstbericht):** Der überwiegende Teil des Gels wurde auf dem Skrotum verrieben. Reste zwischen den Fingern am Penisschaft entlang verrieben; Reste auf den Fingerspitzen auf beide Brustwarzen verteilt.
+
+**Lokale Empfindungen:** Unmittelbar nach der Auftragung zunächst kurz kühl, dann zunehmend warm, ohne Brennen. Die Wärme war zum Zeitpunkt der späteren Beschreibung bereits wieder vollständig verschwunden. Im Rückblick berichtet die Anwenderin bei den ersten zwei Anwendungen leichtes Brennen, bei dieser Anwendung nicht.
+
+**Herzwahrnehmung:** Spürbares Herzpochen, von der Anwenderin als mit emotionaler bzw. sexueller Erregung verbunden beschrieben. Keine gemessene Pulsfrequenz und keine Angabe zu tatsächlicher Beschleunigung.
+
+**Emotionale und sexuelle Wahrnehmung:** Deutliche Erregung beim Gedanken, mit jeder Anwendung einen weiteren Schritt weg von ihrer früheren Männlichkeit zu gehen. Der Gedanke an eine nicht rückgängig gemachte Transition wird als befreiend erlebt. Zugleich besteht das subjektive Gefühl, etwas Verbotenes zu tun, obwohl die Anwenderin weiß, dass die Anwendung nicht verboten ist.
+
+**Entspannung:** Die Anwenderin beschreibt eine zunehmend beruhigende, entspannende Empfindung. Diese wird als subjektives Erleben dokumentiert, ohne gesicherte unmittelbare Kausalzuordnung zum Estradiol.
+
+**Methodischer Hinweis:** Keine Blutspiegelmessung; lokale Hautverträglichkeit lässt keine Aussage über die systemische Aufnahme zu. Skrotum, Penis und Brustwarzen sind keine vorgesehenen Auftragungsstellen für Estreva; die Aufnahme kann insbesondere skrotal erhöht und variabel sein.
