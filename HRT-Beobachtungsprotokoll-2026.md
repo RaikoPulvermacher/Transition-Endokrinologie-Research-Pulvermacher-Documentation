@@ -30,6 +30,13 @@
 
 Für diese Beobachtungen sind noch keine genauen Beginnzeiten erfasst. Sie sind weder als nachgewiesene Estradiolwirkungen noch als nachgewiesenes Brustdrüsenwachstum zu interpretieren.
 
+### Sexuelle Funktion und Stimulation (Tag 1 / frühe Beobachtungsphase)
+
+- **Spontane Erektionen:** Bis zum Berichtszeitpunkt keine spontane Erektion beobachtet. Eine Veränderung der Erektionsfähigkeit ist daher **noch nicht beurteilbar**.
+- **Anale Stimulation:** Während der analen Selbststimulation trat erneut eine **deutlich verstärkte Abgabe von Flüssigkeit aus dem Penis („massives Tropfen“) auf**. Die Anwenderin beschreibt dies als mutmaßliches Prostatasekret und berichtet, dass dieses Phänomen über längere Zeit zuvor nicht mehr in dieser Form aufgetreten war.
+- **Mögliche Einflussfaktoren:** Die Anwenderin nennt ausdrücklich das gleichzeitig verwendete Muskelrelaxans als mögliche Erklärung und schließt dessen Mitwirkung nicht aus. Eine ursächliche Zuordnung zum Estradiol oder zum Muskelrelaxans ist anhand dieser Beobachtung nicht möglich.
+- **Erhebungsgrenzen:** Genaue Uhrzeit, Flüssigkeitsmenge und Zusammensetzung wurden nicht gemessen. Die Herkunft der Flüssigkeit aus der Prostata ist nicht labordiagnostisch bestätigt.
+
 ### Dokumentationsmethodik
 
 Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt erfassen. Der geplante Acht-Stunden-Rhythmus ist nicht mit einer bereits bestätigten konstanten Blutkonzentration gleichzusetzen. Skrotale Applikation ist keine zugelassene Anwendungsstelle für Estreva; eine erhöhte und variable systemische Aufnahme ist möglich. Dieses Protokoll dokumentiert Selbstbeobachtungen und stellt keine Dosierungsempfehlung dar.
