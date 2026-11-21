@@ -72,3 +72,5 @@ Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt
 
 **Auftragungsstelle des dritten Hubs:** Noch nicht ausdrücklich bestätigt.
 
+
+**Somatische Ergänzung kurz nach 09:15 Uhr:** Leichtes Wärmegefühl an Skrotum und Penis unmittelbar nach dem dritten Auftragen; die Anwenderin beschreibt es als wiederkehrend („wieder ein bisschen warm“). Sie vermutet einen Zusammenhang mit dem Alkoholanteil des Gels. Die Ursache ist nicht bestätigt; eine lokale Reaktion auf die Gelgrundlage ist plausibel, aber nicht nachgewiesen.
