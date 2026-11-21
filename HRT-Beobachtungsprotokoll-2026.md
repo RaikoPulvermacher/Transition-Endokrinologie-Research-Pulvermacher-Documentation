@@ -103,3 +103,5 @@ Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt
 - **Sexuelle Reaktion:** Die Anwenderin bemerkte eindeutig Erregung. Auf eine mögliche Erektion achtete sie nicht gezielt; sie vermutet, dass keine auftrat. Eine Erektion ist damit weder bestätigt noch sicher ausgeschlossen.
 - **Methocarbamol:** Nach gegenwärtiger Erinnerung vor der Anwendung um 14:14 Uhr noch nicht eingenommen. Die Anwenderin erinnert sich nicht sicher an den letzten Einnahmezeitpunkt und vermutet, die Einnahme vergessen zu haben. Keine bestätigte Dosis oder Uhrzeit.
 - **Muskuläre Wahrnehmung:** Weiterhin ausgeprägte Verspannungen und Druckgefühl in der Muskulatur. Das zuvor berichtete subjektive Gefühl zunehmender Entspannung besteht neben diesen weiterhin vorhandenen Beschwerden; eine objektive Veränderung des Muskeltonus wurde nicht gemessen.
+
+**Weitere Präzisierung der muskulären Wahrnehmung:** Die Anwenderin beschreibt Druckschmerz der Muskeln, in seiner Qualität vergleichbar mit Muskelkater. Dies konkretisiert das zuvor dokumentierte Druckgefühl; eine Ursache ist damit nicht bestimmt.
