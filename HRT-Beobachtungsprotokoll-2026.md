@@ -37,6 +37,17 @@ Für diese Beobachtungen sind noch keine genauen Beginnzeiten erfasst. Sie sind 
 - **Mögliche Einflussfaktoren:** Die Anwenderin nennt ausdrücklich das gleichzeitig verwendete Muskelrelaxans als mögliche Erklärung und schließt dessen Mitwirkung nicht aus. Eine ursächliche Zuordnung zum Estradiol oder zum Muskelrelaxans ist anhand dieser Beobachtung nicht möglich.
 - **Erhebungsgrenzen:** Genaue Uhrzeit, Flüssigkeitsmenge und Zusammensetzung wurden nicht gemessen. Die Herkunft der Flüssigkeit aus der Prostata ist nicht labordiagnostisch bestätigt.
 
+### Zeitliche Präzisierung: sexuelle Selbstbeobachtungen am 20.11.2026
+
+| Uhrzeit (ungefähr) | Selbstbericht |
+| --- | --- |
+| 17:00 Uhr | Erste anale Selbststimulation nach der ersten Gelanwendung um 14:14 Uhr. Deutliches Tropfen von Flüssigkeit aus dem Penis. |
+| 20:00 Uhr | Zweite anale Selbststimulation, erneut deutliches Tropfen. |
+| Gegen Ende der zweiten Stimulation | Verwendung eines Massagestabs und eines zuvor erwähnten „Bimbo-Videos“; die Anwenderin berichtet einen sehr schnellen Orgasmus. Die Formulierung „nachdem ich mich anderthalb stimuliert hatte“ ist zeitlich nicht eindeutig und wird bis zur Klärung nicht als konkrete Dauer übernommen. |
+| Danach bis zum Bericht | Keine weitere Selbststimulation. |
+
+Die Beobachtungen liegen zeitlich **zwischen der ersten Gelanwendung (14:14 Uhr) und der zweiten (ca. 21:55 Uhr)**. Die beiden Flüssigkeitsabgaben sind subjektiv als auffällig und gegenüber der längeren Vorperiode verstärkt beschrieben; weder Menge noch Herkunft wurden objektiv gemessen. Methocarbamol bleibt ein möglicher Einflussfaktor. Aus zeitlicher Nähe allein folgt keine Kausalität.
+
 ### Dokumentationsmethodik
 
 Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt erfassen. Der geplante Acht-Stunden-Rhythmus ist nicht mit einer bereits bestätigten konstanten Blutkonzentration gleichzusetzen. Skrotale Applikation ist keine zugelassene Anwendungsstelle für Estreva; eine erhöhte und variable systemische Aufnahme ist möglich. Dieses Protokoll dokumentiert Selbstbeobachtungen und stellt keine Dosierungsempfehlung dar.
