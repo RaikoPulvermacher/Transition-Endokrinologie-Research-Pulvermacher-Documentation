@@ -51,3 +51,18 @@ Die Beobachtungen liegen zeitlich **zwischen der ersten Gelanwendung (14:14 Uhr)
 ### Dokumentationsmethodik
 
 Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt erfassen. Der geplante Acht-Stunden-Rhythmus ist nicht mit einer bereits bestätigten konstanten Blutkonzentration gleichzusetzen. Skrotale Applikation ist keine zugelassene Anwendungsstelle für Estreva; eine erhöhte und variable systemische Aufnahme ist möglich. Dieses Protokoll dokumentiert Selbstbeobachtungen und stellt keine Dosierungsempfehlung dar.
+
+## Tag 2 – 21.11.2026
+
+| Zeitpunkt (Ortszeit Deutschland) | Ereignis | Status |
+| --- | --- | --- |
+| 09:15 Uhr | Dritte Anwendung: 1 Hub Estreva 0,1 % (nominell 0,5 mg Estradiol) | Von der Anwenderin berichtet, genaue Uhrzeit |
+
+**Zeitlicher Verlauf:** Die für ca. 06:00 Uhr vorgesehene Anwendung wurde verschlafen. Tatsächlich erfolgte die Anwendung um 09:15 Uhr, **11 Stunden 20 Minuten** nach der zweiten Anwendung am 20.11. um ca. 21:55 Uhr. Die Uhrzeit der zweiten Anwendung ist ungefähr, daher auch der Abstand.
+
+**Phänomenologische Beobachtung unmittelbar beim Aufwachen:** Die Anwenderin beschreibt keine differenzierte emotionale oder körperliche Wahrnehmung zum Zeitpunkt der Anwendung, da sie gerade erst aufgewacht war. Ihre unmittelbare Reaktion auf das Verschlafen lautete wörtlich: **„Fuck, Scheiße!“** Diese Äußerung wird als situative Reaktion dokumentiert, nicht als zugeschriebene Estradiolwirkung.
+
+**Somatische, neurologische und sexuelle Veränderungen bei dieser Anwendung:** Nicht beschrieben; keine Aussage über Vorhandensein oder Abwesenheit von Veränderungen.
+
+**Auftragungsstelle des dritten Hubs:** Noch nicht ausdrücklich bestätigt.
+
