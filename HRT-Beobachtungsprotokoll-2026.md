@@ -74,3 +74,24 @@ Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt
 
 
 **Somatische Ergänzung kurz nach 09:15 Uhr:** Leichtes Wärmegefühl an Skrotum und Penis unmittelbar nach dem dritten Auftragen; die Anwenderin beschreibt es als wiederkehrend („wieder ein bisschen warm“). Sie vermutet einen Zusammenhang mit dem Alkoholanteil des Gels. Die Ursache ist nicht bestätigt; eine lokale Reaktion auf die Gelgrundlage ist plausibel, aber nicht nachgewiesen.
+
+
+### Vierte Anwendung – 21.11.2026, 14:14 Uhr
+
+**Präparat und Menge:** 1 Hub Estreva 0,1 % (nominell 0,5 mg Estradiol). Aufgetragene Menge, keine gemessene Aufnahme. **Abstand zur dritten Anwendung:** 4 Stunden 59 Minuten.
+
+**Auftragung (Selbstbericht):** Gel überwiegend auf dem Skrotum gründlich verrieben. Zwischen den Fingern verbliebener Rest entlang des Penisschafts verrieben; Rest an den Fingerspitzen auf beide Brustwarzen verteilt. Mengenverteilung nicht gemessen.
+
+**Lokale Empfindungen:** Kurzzeitig kühl, anschließend wärmer; kein Brennen. Dauer nicht angegeben.
+
+**Emotionen:** Euphorie darüber, seit HRT-Beginn am Vortag um 14:14 Uhr einen vollständigen Tag erreicht zu haben. Leichte sexuelle Erregung, Vorfreude und Ungeduld hinsichtlich körperlicher Veränderungen: „Es soll schneller gehen, es soll schneller gehen. Ich will Resultate haben.“
+
+**Phänomenologisches Erleben:** Weiterhin teilweise surreal, zugleich zunehmend als Realität empfunden: „Es ist wahr, es ist wahr.“
+
+**Subjektive Entspannung:** Die Anwenderin glaubt, sich zunehmend zu entspannen, und empfindet dies als wohltuend: „Es tut gut, es tut einfach gut.“ Körperregion und Ursache nicht bestimmt.
+
+**Erwartung:** Neugier, wann erste deutlich spürbare Veränderungen auftreten, ob sie diese direkt bemerkt oder erst überraschend erkennt. Keine konkrete solche Veränderung berichtet.
+
+**Offene Angaben:** Dauer des Wärmegefühls; Lokalisation der Entspannung; Methocarbamol-Einnahme vor der Anwendung; rein gedankliche oder auch körperliche sexuelle Erregung.
+
+**Methodik:** Subjektive Empfindungen, keine gesicherten akuten Estradiolwirkungen. Skrotum, Penisschaft und Brustwarzen sind keine vorgesehenen Auftragungsstellen für Estreva; insbesondere skrotal kann die Aufnahme erhöht und variabel sein. Keine Anwendungsempfehlung.
