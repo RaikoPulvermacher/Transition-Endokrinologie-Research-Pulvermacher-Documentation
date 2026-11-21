@@ -95,3 +95,11 @@ Beobachtete Empfindungen, verabreichte Mengen, Messwerte und Hypothesen getrennt
 **Offene Angaben:** Dauer des Wärmegefühls; Lokalisation der Entspannung; Methocarbamol-Einnahme vor der Anwendung; rein gedankliche oder auch körperliche sexuelle Erregung.
 
 **Methodik:** Subjektive Empfindungen, keine gesicherten akuten Estradiolwirkungen. Skrotum, Penisschaft und Brustwarzen sind keine vorgesehenen Auftragungsstellen für Estreva; insbesondere skrotal kann die Aufnahme erhöht und variabel sein. Keine Anwendungsempfehlung.
+
+
+### Ergänzung zur vierten Anwendung – nachträgliche Präzisierung
+
+- **Wärmeempfindung:** Das lokale Wärmegefühl hielt ungefähr zwei bis drei Minuten an und verschwand anschließend.
+- **Sexuelle Reaktion:** Die Anwenderin bemerkte eindeutig Erregung. Auf eine mögliche Erektion achtete sie nicht gezielt; sie vermutet, dass keine auftrat. Eine Erektion ist damit weder bestätigt noch sicher ausgeschlossen.
+- **Methocarbamol:** Nach gegenwärtiger Erinnerung vor der Anwendung um 14:14 Uhr noch nicht eingenommen. Die Anwenderin erinnert sich nicht sicher an den letzten Einnahmezeitpunkt und vermutet, die Einnahme vergessen zu haben. Keine bestätigte Dosis oder Uhrzeit.
+- **Muskuläre Wahrnehmung:** Weiterhin ausgeprägte Verspannungen und Druckgefühl in der Muskulatur. Das zuvor berichtete subjektive Gefühl zunehmender Entspannung besteht neben diesen weiterhin vorhandenen Beschwerden; eine objektive Veränderung des Muskeltonus wurde nicht gemessen.
